@@ -8,7 +8,7 @@ Ecu = car.CarParams.Ecu
 
 FW_VERSIONS = {
   CAR.VOLKSWAGEN_ARTEON_MK1: {
-    (Ecu.engine, 0x7e0, None): [
+    (Ecu.engine, 0x757, None): [
       b'\xf1\x873G0906259AH\xf1\x890001',
       b'\xf1\x873G0906259F \xf1\x890004',
       b'\xf1\x873G0906259G \xf1\x890004',
